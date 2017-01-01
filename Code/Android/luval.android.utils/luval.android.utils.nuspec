@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>luval.android.utils</id>
+    <version>0.1.0.0</version>
+    <title>luval.android.utils</title>
+    <authors>Oscar Marin</authors>
+    <description>Provides a set of utilities for android app built on Xamarin</description>
+    <licenseUrl>https://github.com/marinoscar/xamarin-utils/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/marinoscar/xamarin-utils</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>false</developmentDependency>
+    <copyright>Copyright ©  2017</copyright>
+    <frameworkAssemblies />
+    <dependencies>
+      <group>
+        <dependency id="Newtonsoft.Json" version="7.0.1" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Git\xamarin-utils\Code\Android\luval.android.utils\bin\Debug\luval.android.utils.dll" target="lib\Luval Android Utils" />
+  </files>
+</package>
